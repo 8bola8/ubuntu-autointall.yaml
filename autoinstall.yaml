@@ -9,7 +9,7 @@ autoinstall:
     locale: pt_BR.utf8
     keyboard:
         layout: br
-    timezone: "America/Sao_Paulo"   
+    timezone: "Ceara/fortaleza"   
     packages:
         - libreoffice
         - gimp
